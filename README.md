@@ -1,7 +1,7 @@
 ### Hi there 👋
-# My name is Oleg Panov.
-# 🌱 I’m currently learning QA/QC Courses (Vadim Ksendzov, Alex Marshall, Artsiom Rusau)
-# 👀 Now I'm looking for my first job in IT as QA-engineer
+#### My name is Oleg Panov.
+#### 🌱 I’m currently learning QA/QC Courses (Vadim Ksendzov, Alex Marshall, Artsiom Rusau)
+#### 👀 Now I'm looking for my first job in IT as QA-engineer
 
 
 <!--
