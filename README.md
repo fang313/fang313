@@ -1,5 +1,5 @@
 #👋Hi there, I'm Oleg Panov
-### align="center">Computer science student
+### Computer science student
 #### 🌱 I’m currently learning QA/QC Courses (Vadim Ksendzov, Alex Marshall, Artsiom Rusau)
 #### 👀 Now I'm looking for my first job in IT as QA-engineer
 ![trophy](https://github-profile-trophy.vercel.app/?username=fang313)
