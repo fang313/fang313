@@ -2,8 +2,8 @@
 <h3 align="center">Computer science student</h3>
 <h4> 🌱 I’m currently learning QA/QC Courses (Vadim Ksendzov, Alex Marshall, Artsiom Rusau)</h4>
 <h4> 👀 Now I'm looking for my first job in IT as QA-engineer</h4>
-![trophy](https://github-profile-trophy.vercel.app/?username=fang313
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fang313&layout=compact
+![trophy](https://github-profile-trophy.vercel.app/?username=fang313)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fang313&layout=compact)
 ![](https://komarev.com/ghpvc/?username=your-github-fang313)
 
 <!--
