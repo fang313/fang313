@@ -1,4 +1,4 @@
-#👋Hi there, I'm Oleg Panov
+# 👋Hi there, I'm Oleg Panov
 ### Computer science student
 #### 🌱 I’m currently learning QA/QC Courses (Vadim Ksendzov, Alex Marshall, Artsiom Rusau)
 #### 👀 Now I'm looking for my first job in IT as QA-engineer
