@@ -2,7 +2,7 @@
 <h3 align="center">Computer science student</h3>
 <h4> 🌱 I’m currently learning QA/QC Courses (Vadim Ksendzov, Alex Marshall, Artsiom Rusau)</h4>
 <h4> 👀 Now I'm looking for my first job in IT as QA-engineer</h4>
-[![trophy](https://github-profile-trophy.vercel.app/?username=fang313)](https://github.com/ryo-ma/github-profile-trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=fang313)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **fang313/fang313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
