@@ -1,10 +1,5 @@
 <h1 align="center">👋Hi there, I'm Oleg Panov</h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
-
-
-### Hi there 
-#### My name is Oleg Panov.
+<h3 align="center">Computer science student</h3>
 #### 🌱 I’m currently learning QA/QC Courses (Vadim Ksendzov, Alex Marshall, Artsiom Rusau)
 #### 👀 Now I'm looking for my first job in IT as QA-engineer
 
