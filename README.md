@@ -21,7 +21,7 @@
 
 - 📖 I learn English (LangExchange + Self studying by **English File** course books)
 - 💞️ I'm looking for a new projects! Different is better!
-- 📫 You can reach me @ [e-mail][email] | [LinkedIn][in] | [Telegram][tg] | [WhatsApp][wa] | [Twitter][tw]
+- 📫 You can reach me @ [e-mail][email] | [LinkedIn][in] | [Telegram][tg] | [WhatsApp][wa]
 
 [email]: <mailto:fang.russiuan@gmail.com>
 [in]: <https://www.linkedin.com/in/oleg-panov-93b5b695>
