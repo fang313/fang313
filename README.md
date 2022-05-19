@@ -2,7 +2,7 @@
 ### And I want to be the greatest QA Engineer!
 #### 🌱 I’m currently learning QA Courses by Vadim Ksendzov, Alex Marshall, Artsiom Rusau.
 #### 💬 Reading "Software testing" by S.Kulikov, "How Google tests software" by J.Whittaker.
-#### 🗺️ I explore those tools as a beginner: GitBash, DevTools, Postman, Jira, Android Studio, Charles, Fiddler, Swagger
+#### 🗺️ I explore those tools as a beginner: GitBash, DevTools, Postman, Jira, Android Studio, Charles, Fiddler
 
 <div align="left">
  <img alt="Git" width="117px" src="https://user-images.githubusercontent.com/89486551/143319775-c711ac23-04f8-44dd-9a0b-ea3698467e9e.png" />
