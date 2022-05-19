@@ -24,7 +24,7 @@
 - 📫 You can reach me @ [e-mail][email] | [LinkedIn][in] | [Telegram][tg] | [WhatsApp][wa]
 
 [email]: <mailto:fang.russiuan@gmail.com>
-[in]: <https://www.linkedin.com/in/oleg-panov-93b5b695>
+[in]: <https://www.linkedin.com/in/fangru>
 [tg]: <https://t.me/fang_ru>
 [wa]: <https://wa.me/79192095944>
 
