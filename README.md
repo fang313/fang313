@@ -19,8 +19,8 @@
  <img alt="Markdown" width="117px" src="https://user-images.githubusercontent.com/89486551/143319781-e0cb8223-f5db-4cfd-b2f8-9fab2e227023.png" />
 </div>
 
-- 📖 I learn English (LangExchange + Self studying by **English File** course books)
-- 💞️ I'm looking for a new projects! Different is better!
+<!-- - 📖 I learn English (LangExchange + Self studying by **English File** course books) -->
+<!-- - 💞️ I'm looking for a new projects! Different is better! -->
 - 📫 You can reach me @ [e-mail][email] | [LinkedIn][in] | [Telegram][tg] | [WhatsApp][wa]
 
 [email]: <mailto:fang.russiuan@gmail.com>
