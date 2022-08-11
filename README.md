@@ -4,20 +4,9 @@
 #### 💬 Reading "Software testing" by S.Kulikov, "How Google tests software" by J.Whittaker.
 #### 🗺️ I explore those tools as a beginner: GitBash, DevTools, Postman, Jira, Android Studio, Charles, Fiddler
 
-<div align="left">
- <img alt="Git" width="117px" src="https://user-images.githubusercontent.com/89486551/143319775-c711ac23-04f8-44dd-9a0b-ea3698467e9e.png" />
- <img alt="devtools" width="117px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
- <img alt="postman" width="117px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
- <img alt="jira" width="117px" src="https://user-images.githubusercontent.com/89486551/153722743-407bd6dd-f5bc-4b1a-8875-13969c69b517.png" />
- <img alt="PostgreSQL" width="117px" src="https://user-images.githubusercontent.com/89486551/143319773-17f2e07b-8dc2-4f02-9b60-e9f0b421ce06.png" />
-</div>  
-<div align="left">
- <img alt="android-studio" width="117px" src="https://user-images.githubusercontent.com/89486551/143319797-01713acf-1cc6-49c9-ae92-d520d55cef17.png" />
- <img alt="charles" width="117px" src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" />
- <img alt="fiddler" width="117px" src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" />
- <img alt="swagger" width="117px" src="https://user-images.githubusercontent.com/89486551/153722742-ae154b3b-291e-4e94-a969-43dbcc537acd.png" />
- <img alt="Markdown" width="117px" src="https://user-images.githubusercontent.com/89486551/143319781-e0cb8223-f5db-4cfd-b2f8-9fab2e227023.png" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
 
 <!-- - 📖 I learn English (LangExchange + Self studying by **English File** course books) -->
 <!-- - 💞️ I'm looking for a new projects! Different is better! -->
