@@ -8,7 +8,7 @@
 
 - 📫 You can reach me @ [e-mail][email] | [LinkedIn][in] | [Telegram][tg] | [WhatsApp][wa]
 
-[email]: <mailto:fang.russiuan@gmail.com>
+[email]: <mailto:olegpanov.qa@gmail.com>
 [in]: <https://www.linkedin.com/in/fangru>
 [tg]: <https://t.me/QA_Oleg>
 [wa]: <https://wa.me/79192095944>
